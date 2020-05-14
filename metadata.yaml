@@ -1,5 +1,5 @@
 _repo: Olivier-Twist-Les-voleurs-de-Londres_61994
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Oliver Twist. French
 contributor:
   translator:
@@ -16,6 +16,9 @@ contributor:
     gutenberg_agent_id: '32708'
     url: http://www.gutenberg.org/2009/agents/32708
     wikipedia: https://fr.wikipedia.org/wiki/%C3%89mile_de_La_B%C3%A9dolli%C3%A8re
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dickens, Charles
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61994#Olivier-Twist-Les-voleurs-de-Londres
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
