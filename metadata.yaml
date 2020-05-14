@@ -1,0 +1,52 @@
+_repo: Olivier-Twist-Les-voleurs-de-Londres_61994
+_version: 0.0.1
+alternative_title: Oliver Twist. French
+contributor:
+  translator:
+    agent_name: La Bédollière, Emile de
+    aliases:
+    - La Bedolliere, Emile de
+    - Bédollière, Émile Gigault de la
+    - Labedolliere, Emile de
+    - Bédollière, Emile de la
+    - Bédollière, Émile de la
+    - Labédollière, Emile de
+    birthdate: 1812
+    deathdate: 1883
+    gutenberg_agent_id: '32708'
+    url: http://www.gutenberg.org/2009/agents/32708
+    wikipedia: https://fr.wikipedia.org/wiki/%C3%89mile_de_La_B%C3%A9dolli%C3%A8re
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2020-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61994'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Kidnapping victims -- Fiction'
+- GITenberg
+title: 'Olivier Twist: Les voleurs de Londres'
+url: http://www.gutenberg.org/ebooks/61994
